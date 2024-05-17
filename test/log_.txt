@@ -1,0 +1,36 @@
+Hyperparameters:
+  cuda: True
+  cudnn: False
+  device_id: 6
+  fp16: True
+  base_lr: 0.1
+  momentum: 0.9
+  weight_decay: 0.0005
+  gamma: 0.1
+  data_path: /data1/fanweijia/local_data/faces_webface_112x112
+  img_size: [112, 112] 
+  batch_size: 512
+  bs_mult: 1
+  drop_last: True
+  steps: [16, 24]
+  epochs: 28
+  warmups: 0
+  workers: 32
+  num_classes: 10572
+  model_name: LResNet50EIR
+  model_dir: test
+  log_dir: log-LResNet50EIR
+
+dropout Dropout(p=0.4, inplace=False)
+EPL()
+self.start_vp_epoch: 4 k: 0.7
+<function softsign at 0x7f399fef8ca0>
+CosFace_EPL(in_features=512, out_features=10572, m=0.4, s=64)
+
+<torch.optim.lr_scheduler.MultiStepLR object at 0x7f3a1d76b220>
+Epoch: 1
+
+2024-05-17 18:16:36, Iteration: 0 (512/490623=0%)  loss: 38.7479  lr: 0.1000
+
+2024-05-17 18:17:39, Iteration: 100 (51712/490623=11%)  loss: 35.9153  lr: 0.1000
+
