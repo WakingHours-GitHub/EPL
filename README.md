@@ -4,7 +4,7 @@ arXiv website is here: https://arxiv.org/abs/2405.12447v1.
 
 Paperwithcode website is here: https://paperswithcode.com/paper/epl-empirical-prototype-learning-for-deep.
 
-The pretrain model is updated at [Google drive](https://drive.google.com/drive/folders/1fByWagpxG2h4_kKpqKh84JDki72Z_H4P?usp=drive_link).
+The pretrain model is updated at [Google drive](https://drive.google.com/drive/folders/1fByWagpxG2h4_kKpqKh84JDki72Z_H4P?usp=drive_link). Submit the .zip file under the onnx folder directly to the [MFR online server](http://iccv21-mfr.com/#/submit) and wait for the results.
 
 
 | Method        | Network Dataset           | Mask  | Child. | Afri. | Cau.  | S-A.  | E-A.  | MR- All | IJB-C (1e-5)  | IJB-C (1e-4)  | LFW   | CFP   | Age   |
