@@ -5,7 +5,7 @@ import torch
 import numpy as np
 import onnx
 
-model_path = "runs_2/casia_webface/fixed_marginal_EPL/EPL_m=0.6_2/LResNet50EIR_28th_epoch.pth"
+model_path = ""
 print(model_path)
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
