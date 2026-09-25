@@ -6,7 +6,7 @@ Paperwithcode website is here: https://paperswithcode.com/paper/epl-empirical-pr
 
 ~~The pretrained model is available on [Google Drive].~~
 
-The pretrained model is available on [Hugging Face](https://huggingface.co/wakinghours/EPL/tree/main). Submit the .zip file under the onnx folder directly to the [MFR online server](http://iccv21-mfr.com/#/submit) and wait for the results.
+[20260925:Update]The pretrained model is available on [Hugging Face](https://huggingface.co/wakinghours/EPL/tree/main). Submit the .zip file under the onnx folder directly to the [MFR online server](http://iccv21-mfr.com/#/submit) and wait for the results.
 
 | Method        | Network Dataset           | Mask  | Child. | Afri. | Cau.  | S-A.  | E-A.  | MR- All | IJB-C (1e-5)  | IJB-C (1e-4)  | LFW   | CFP   | Age   |
 |:------:|:---------------:|:----:|:------:|:-----:|:----:|:----:|:----:|:----------:|:----:|:----:|:---:|:---:|:---:|
